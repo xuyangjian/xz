@@ -1,13 +1,13 @@
 var link = {
     //亚博
-    yaboPc: 'https://www.6p71h.com:7443/register/?i_code=2011991',                //亚博电脑
-    yaboH5: 'https://www.79ohxn.com:6443/entry/register/?i_code=2011991',          //亚博h5
-    yaboApp: 'https://www.stiuic.com:9663/?i_code=2011991',                        //亚博aap
+    yaboPc: 'https://www.ky346.com:9517/register/?i_code=71346184',                //亚博电脑
+    yaboH5: 'https://www.4l0tf.com:9978/entry/register/?i_code=71346184',          //亚博h5
+    yaboApp: 'https://www.kyty36.app:9961/?i_code=71346184',                        //亚博aap
     
     //乐鱼
-    leyuPc: 'https://www.sv588.com:9960/register/?i_code=0642513',                  //爱游戏电脑
-    leyuH5: 'https://www.4t14u.com:9975/entry/register/?i_code=0642513',       //爱游戏h5 
-    leyuApp: 'https://www.g9fy5.com:9109/?i_code=0642513',                          //爱游戏app  
+    leyuPc: 'https://www.ky346.com:9517/register/?i_code=71346184',                  //爱游戏电脑
+    leyuH5: 'https://www.4l0tf.com:9978/entry/register/?i_code=71346184',       //爱游戏h5 
+    leyuApp: 'https://www.kyty36.app:9961/?i_code=71346184',                          //爱游戏app  
     
     //客服                                                        
     contact: 'http://hd66.tv/'                                
